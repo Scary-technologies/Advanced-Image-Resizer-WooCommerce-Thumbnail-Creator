@@ -52,9 +52,6 @@ pip install Pillow opencv-python
 3. Click the **Process** button to start resizing and cropping.
 4. Monitor the **Progress Bar** and check the **Log Table** to track the process.
 
-## Screenshots
-![App Screenshot](screenshot.png)  
-*(Add a screenshot of your application here)*
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
